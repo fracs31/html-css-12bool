@@ -7,6 +7,15 @@
 
 /* Colonne */
 [class^='col-'] {
-    background-color: aqua;
+    background-color: #006CFA;
+    color: white;
     padding: 5px 10px;
+    border: 1px solid white;
+    text-align: center;
+}
+
+/* Colonne verdi */
+.green {
+    background-color: #00E165;
+    border: 1px solid #006CFA;
 }
