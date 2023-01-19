@@ -1,0 +1,12 @@
+/* Regole generali */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* Colonne */
+[class^='col-'] {
+    background-color: aqua;
+    padding: 5px 10px;
+}
